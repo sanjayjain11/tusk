@@ -3,3 +3,6 @@ i'm learning how to commit
 
 
 repository in github
+
+and also learned adding cammands
+
