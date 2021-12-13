@@ -5,5 +5,3 @@ i'm learning how to commit
 repository in github
 
 learned adding cammands
-
-thank you :)
